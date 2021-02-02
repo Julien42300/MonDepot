@@ -1,6 +1,6 @@
 {% extends 'base.html.twig' %}
 
-{% block title %}Hello ServeurController!{% endblock %}
+{% block title %}Page d'accueil{% endblock %}
 
 {% block body %}
 <style>
@@ -9,12 +9,25 @@
 </style>
 
 <div class="example-wrapper">
-    <h1>Hello {{ controller_name }}! ✅</h1>
+    <h1>Bonjour ! ✅</h1>
 
-    This friendly message is coming from:
-    <ul>
-        <li>Your controller at <code><a href="{{ '/home/ferrari/FServFerrari/src/Controller/ServeurController.php'|file_link(0) }}">src/Controller/ServeurController.php</a></code></li>
-        <li>Your template at <code><a href="{{ '/home/ferrari/FServFerrari/templates/serveur/index.html.twig'|file_link(0) }}">templates/serveur/index.html.twig</a></code></li>
-    </ul>
+    Bienvenue sur le serveur de fichier de Julien Ferrari !
+    
+    <p>
+    Veuillez vous connecter :
+    </p>
+
+<form>  
+  <div class="form-group">
+    <label for="exampleInputLogin">Identifiant</label>
+    <input type="login" class="form-control" id="exampleInputLogin" aria-describedby="loginHelp" placeholder="Entrez votre identifiant">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Mot de passe</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Entrez votre mot de passe">
+  </div>
+  <button type="connexion" class="btn btn-primary">Se connecter</button>
+</form>
+
 </div>
 {% endblock %}
