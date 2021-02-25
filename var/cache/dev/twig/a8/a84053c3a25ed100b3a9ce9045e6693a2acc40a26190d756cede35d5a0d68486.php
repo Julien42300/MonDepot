@@ -557,6 +557,6 @@ class __TwigTemplate_91f3dbd3977736be716d6bce36b77e0b18ff9da94f4c3ab8ce1d09107c8
         {% endif %}
     </div>
 {% endblock %}
-", "@WebProfiler/Collector/http_client.html.twig", "/home/ferrari/FServFerrari/vendor/symfony/web-profiler-bundle/Resources/views/Collector/http_client.html.twig");
+", "@WebProfiler/Collector/http_client.html.twig", "/home/ferrari/MonDepot/vendor/symfony/web-profiler-bundle/Resources/views/Collector/http_client.html.twig");
     }
 }

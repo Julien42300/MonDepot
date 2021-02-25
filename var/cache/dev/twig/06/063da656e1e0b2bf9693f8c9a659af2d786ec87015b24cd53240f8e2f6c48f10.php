@@ -155,6 +155,6 @@ class __TwigTemplate_413a80864f73b301b27e4462051dec16cfd987601f1245e25e4be9df80c
 {% block panel %}
     {{ render(path('_profiler_router', { token: token })) }}
 {% endblock %}
-", "@WebProfiler/Collector/router.html.twig", "/home/ferrari/FServFerrari/vendor/symfony/web-profiler-bundle/Resources/views/Collector/router.html.twig");
+", "@WebProfiler/Collector/router.html.twig", "/home/ferrari/MonDepot/vendor/symfony/web-profiler-bundle/Resources/views/Collector/router.html.twig");
     }
 }

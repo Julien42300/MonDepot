@@ -125,6 +125,6 @@ class __TwigTemplate_4ebf412d381452283797739bf7cd1a6586240696d1ba5f187900fb2d407
 .exception-message-wrapper .container {
     min-height: auto;
 }
-", "@WebProfiler/Collector/exception.css.twig", "/home/ferrari/FServFerrari/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
+", "@WebProfiler/Collector/exception.css.twig", "/home/ferrari/MonDepot/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
     }
 }

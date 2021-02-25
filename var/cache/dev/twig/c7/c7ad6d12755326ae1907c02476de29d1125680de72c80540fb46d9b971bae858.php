@@ -71,6 +71,6 @@ class __TwigTemplate_4445c16f82cd1e1c2297ea7a00d4b461f6ace551bec0d1ad9b1fb67e9a2
     public function getSourceContext()
     {
         return new Source("{% extends \"@email/zurb_2/notification/body.txt.twig\" %}
-", "@email/default/notification/body.txt.twig", "/home/ferrari/FServFerrari/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.txt.twig");
+", "@email/default/notification/body.txt.twig", "/home/ferrari/MonDepot/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.txt.twig");
     }
 }

@@ -35,3 +35,10 @@ a936cc,127.0.0.1,GET,http://127.0.0.1:8000/form,1612257100,,200
 fd9895,127.0.0.1,GET,http://127.0.0.1:8000/indec,1612257313,,404
 c38f12,127.0.0.1,GET,http://127.0.0.1:8000/index,1612257323,,200
 25feb5,127.0.0.1,GET,http://127.0.0.1:8000/index,1612257366,,200
+bbaae0,127.0.0.1,GET,http://localhost:8000/index,1614250260,,200
+c0452d,127.0.0.1,GET,http://localhost:8000/favicon.ico,1614250261,571f73,404
+571f73,127.0.0.1,GET,http://localhost:8000/favicon.ico,1614250261,,404
+3dd23b,127.0.0.1,GET,http://localhost:8000/form,1614250282,,200
+3a4592,127.0.0.1,GET,http://localhost:8000/form,1614250285,,200
+3503db,127.0.0.1,GET,http://localhost:8000/favicon.ico,1614250285,eae0ee,404
+eae0ee,127.0.0.1,GET,http://localhost:8000/favicon.ico,1614250285,,404

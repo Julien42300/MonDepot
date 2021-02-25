@@ -176,6 +176,6 @@ class __TwigTemplate_f478a72c98604a70604716176a6dbf0bfcb5cc102015bf45d56169d35d5
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/home/ferrari/FServFerrari/templates/base.html.twig");
+", "base.html.twig", "/home/ferrari/MonDepot/templates/base.html.twig");
     }
 }
